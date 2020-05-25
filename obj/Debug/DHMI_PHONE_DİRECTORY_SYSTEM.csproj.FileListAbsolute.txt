@@ -1,0 +1,15 @@
+C:\Users\Park Metropol\source\repos\DHMI_PHONE_DİRECTORY_SYSTEM\bin\Debug\DHMI_PHONE_DİRECTORY_SYSTEM.exe.config
+C:\Users\Park Metropol\source\repos\DHMI_PHONE_DİRECTORY_SYSTEM\bin\Debug\DHMI_PHONE_DİRECTORY_SYSTEM.exe
+C:\Users\Park Metropol\source\repos\DHMI_PHONE_DİRECTORY_SYSTEM\bin\Debug\DHMI_PHONE_DİRECTORY_SYSTEM.pdb
+C:\Users\Park Metropol\source\repos\DHMI_PHONE_DİRECTORY_SYSTEM\obj\Debug\DHMI_PHONE_DİRECTORY_SYSTEM.Form1.resources
+C:\Users\Park Metropol\source\repos\DHMI_PHONE_DİRECTORY_SYSTEM\obj\Debug\DHMI_PHONE_DİRECTORY_SYSTEM.Properties.Resources.resources
+C:\Users\Park Metropol\source\repos\DHMI_PHONE_DİRECTORY_SYSTEM\obj\Debug\DHMI_PHONE_DİRECTORY_SYSTEM.csproj.GenerateResource.cache
+C:\Users\Park Metropol\source\repos\DHMI_PHONE_DİRECTORY_SYSTEM\obj\Debug\DHMI_PHONE_DİRECTORY_SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\Park Metropol\source\repos\DHMI_PHONE_DİRECTORY_SYSTEM\obj\Debug\DHMI_PHONE_DİRECTORY_SYSTEM.exe
+C:\Users\Park Metropol\source\repos\DHMI_PHONE_DİRECTORY_SYSTEM\obj\Debug\DHMI_PHONE_DİRECTORY_SYSTEM.pdb
+C:\Users\Park Metropol\source\repos\DHMI_PHONE_DİRECTORY_SYSTEM\obj\Debug\DHMI_PHONE_DİRECTORY_SYSTEM.LISTING.resources
+C:\Users\Park Metropol\source\repos\DHMI_PHONE_DİRECTORY_SYSTEM\obj\Debug\DHMI_PHONE_DİRECTORY_SYSTEM.SEARCH.resources
+C:\Users\Park Metropol\source\repos\DHMI_PHONE_DİRECTORY_SYSTEM\obj\Debug\DHMI_PHONE_DİRECTORY_SYSTEM.ADDING.resources
+C:\Users\Park Metropol\source\repos\DHMI_PHONE_DİRECTORY_SYSTEM\obj\Debug\DHMI_PHONE_DİRECTORY_SYSTEM.csprojAssemblyReference.cache
+C:\Users\Park Metropol\source\repos\DHMI_PHONE_DİRECTORY_SYSTEM\obj\Debug\DHMI_PHONE_DİRECTORY_SYSTEM.UPDATE.resources
+C:\Users\Park Metropol\source\repos\DHMI_PHONE_DİRECTORY_SYSTEM\obj\Debug\DHMI_PHONE_DİRECTORY_SYSTEM.DELETE.resources
